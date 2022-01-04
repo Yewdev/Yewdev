@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yewdev
-- 👀 I’m interested in HTML, CSS/SCSS, Javascript, React.js, Node.js 
+- 👀 I’m interested in HTML, CSS/SASS, Javascript, React.js, Node.js 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me : Y_cooldev@outlook.com
