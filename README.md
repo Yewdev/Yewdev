@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yewdev
-- 👀 I’m interested in HTML, CSS, Javascript, React.js, Node.js, UX/UI
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Next.js , React , Typescript , TailwindCSS 
+- 🌱 I’m currently learning T3 Stack 🔥
 - 📫 How to reach me : Y_cooldev@outlook.com
