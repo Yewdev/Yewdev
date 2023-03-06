@@ -17,7 +17,7 @@ Cloud : Supabase
 
 **🛠️ Tools & Utilities**
 ```bash
-Tools : VSCode, Git, Figma, ChatGPT, Postman, Insomnia
+Tools : VSCode, Git, Figma, ChatGPT, Postman, Prettier
 Deployment : ▲ Vercel 
 ```
 
