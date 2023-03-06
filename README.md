@@ -1,7 +1,7 @@
 
-**⭐️ Current Stack**
+**🔥 Current Stack 🔥**
 ```bash
-  T3 Stack : Next.js, Typescript, Prisma, tRPC
+Next.js & Typescript & TailwindCSS & Prisma & tRPC
 ```
 **🖥️ Frontend**
 ```bash
@@ -17,9 +17,7 @@ Cloud : Supabase
 
 **🛠️ Tools & Utilities**
 ```bash
-  Git, Figma, Postman, Insomnia
+Tools : VSCode, Git, Figma, ChatGPT, Postman, Insomnia
+Deployment : ▲ Vercel 
 ```
-**🔥 Deployment**
-```bash
-   ▲ Vercel  
-```
+
