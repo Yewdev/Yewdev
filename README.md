@@ -1,12 +1,12 @@
 
 **🔥 Current Stack 🔥**
 ```bash
-Next.js & Typescript & TailwindCSS & Prisma & tRPC
+Next.js & Typescript & TailwindCSS & Prisma & tRPC (T3 Stack)
 ```
 🖥️ **Frontend** (✓) 
 ```bash
 Languages : Javascript, Typescript
-Framework/Library : Next.js, React, TailwindCSS, Framer motion
+Framework/Library :React, Next.js, TailwindCSS, Framer motion
 ```
 
 **🗄️ Backend**
